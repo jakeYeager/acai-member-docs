@@ -2,8 +2,6 @@
 title: "Policies"
 ---
 
-# Studio Policies
-
 Please read all policies before your first session. Members are expected to follow these guidelines to ensure a safe, productive environment for everyone.
 
 ## Booking & Cancellations
@@ -16,10 +14,9 @@ Please read all policies before your first session. Members are expected to foll
 
 ## Studio Access & Hours
 
-*Placeholder: Operating hours, key fob or access card procedures, and after-hours policies.*
-
-- Studio hours: *Day–Day, X:00am–X:00pm*
-- After-hours access: *Placeholder details*
+- Studio hours: Monday–Saturday, 10:00am–5:00pm
+- Gallery hours: Wednesday–Friday, Noon–4:00pm; Saturday, 11:00am–3:00pm
+- Studio members have 24/7 facility access.
 
 ## Equipment Use
 

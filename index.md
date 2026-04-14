@@ -2,8 +2,6 @@
 title: "Welcome to ACAI Studio"
 ---
 
-# Welcome to ACAI Studio
-
 This is the member documentation hub for ACAI Studio. Here you'll find everything you need to make the most of your membership — from onboarding guides to studio policies and shared resources.
 
 ## Quick Links
@@ -15,7 +13,7 @@ This is the member documentation hub for ACAI Studio. Here you'll find everythin
 
 ## About ACAI Studio
 
-*Placeholder: A short description of ACAI Studio, its mission, and what members can expect from this documentation.*
+ACAI Studios & Gallery is a nonprofit community ceramics studio that promotes and preserves ceramic and other arts through facilities, equipment, education, and gallery exhibits. We inspire creativity through ceramic arts in the Sacramento region.
 
 ## Announcements
 

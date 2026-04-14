@@ -6,7 +6,9 @@ Need help or have a question? Here's how to reach the ACAI Studio team.
 
 ## General Inquiries
 
-*Placeholder: Primary email address or contact form link for general member questions.*
+- **Email:** information@acaistudios.com
+- **Phone:** (916) 966-2453
+- **Address:** 7425 Winding Way, Fair Oaks, CA 95628
 
 ## Technical Support
 
@@ -32,4 +34,5 @@ Need help or have a question? Here's how to reach the ACAI Studio team.
 
 ## Office Hours
 
-*Placeholder: Days and times when studio staff are available in person or for live virtual Q&A.*
+- **Studio:** Monday–Saturday, 10:00am–5:00pm
+- **Gallery:** Wednesday–Friday, Noon–4:00pm; Saturday, 11:00am–3:00pm
