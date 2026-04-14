@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-Need help or have a question? Here's how to reach the ACAI Studio team.
+Need help or have a question? Here's how to reach the ACAI Studio team. We're happy to help!
 
 ## General Inquiries
 
