@@ -1,0 +1,4 @@
+- source: project
+  gh-pages:
+    - id: acai-member-docs
+      url: 'https://jakeyeager.github.io/acai-member-docs/'
