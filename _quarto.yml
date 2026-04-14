@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "ACAI Studio Member Docs"
+  navbar:
+    left:
+      - href: index.md
+        text: Home
+      - href: getting-started.md
+        text: Getting Started
+      - href: resources.md
+        text: Resources
+      - href: policies.md
+        text: Policies
+      - href: contact.md
+        text: Contact
+  
+  page-footer: 
+    left: "ACAI Studios"
+    right: 
+      - icon: github
+        href: https://github.com/
+      - icon: instagram 
+        href: https://instagram.com/ 
+
+format:
+  html:
+    theme: cosmo
+    toc: true
