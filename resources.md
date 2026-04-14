@@ -2,8 +2,6 @@
 title: "Resources"
 ---
 
-# Resources
-
 A central hub for tools, templates, and assets available to ACAI Studio members.
 
 ## Equipment & Software

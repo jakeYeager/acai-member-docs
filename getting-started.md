@@ -2,8 +2,6 @@
 title: "Getting Started"
 ---
 
-# Getting Started
-
 Welcome to ACAI Studio! This page walks new members through everything they need to know to hit the ground running.
 
 ## Step 1: Account Setup
